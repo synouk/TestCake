@@ -1,0 +1,9 @@
+C:\Dev\TestCake\TestCake\bin\Debug\TestCake.dll
+C:\Dev\TestCake\TestCake\bin\Debug\TestCake.pdb
+C:\Dev\TestCake\TestCake\bin\Debug\Cake.dll
+C:\Dev\TestCake\TestCake\bin\Debug\nunit.framework.dll
+C:\Dev\TestCake\TestCake\bin\Debug\Cake.pdb
+C:\Dev\TestCake\TestCake\bin\Debug\nunit.framework.xml
+C:\Dev\TestCake\TestCake\obj\Debug\cake.Test.csprojResolveAssemblyReference.cache
+C:\Dev\TestCake\TestCake\obj\Debug\TestCake.dll
+C:\Dev\TestCake\TestCake\obj\Debug\TestCake.pdb

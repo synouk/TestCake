@@ -1,0 +1,15 @@
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\CodeCakeBuilder1.exe.config
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\CodeCakeBuilder1.exe
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\CodeCakeBuilder1.pdb
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Cake.Common.dll
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Cake.Core.dll
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Code.Cake.dll
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Cake.Common.pdb
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Cake.Common.xml
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Cake.Core.pdb
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Cake.Core.xml
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Code.Cake.pdb
+C:\Dev\TestCake\CodeCakeBuilder1\bin\Debug\Code.Cake.xml
+C:\Dev\TestCake\CodeCakeBuilder1\obj\Debug\CodeCakeBuilder1.csprojResolveAssemblyReference.cache
+C:\Dev\TestCake\CodeCakeBuilder1\obj\Debug\CodeCakeBuilder1.exe
+C:\Dev\TestCake\CodeCakeBuilder1\obj\Debug\CodeCakeBuilder1.pdb

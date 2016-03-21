@@ -1,0 +1,4 @@
+C:\Dev\TestCake\Cake\bin\Debug\Cake.dll
+C:\Dev\TestCake\Cake\bin\Debug\Cake.pdb
+C:\Dev\TestCake\Cake\obj\Debug\Cake.dll
+C:\Dev\TestCake\Cake\obj\Debug\Cake.pdb
