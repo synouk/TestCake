@@ -119,11 +119,11 @@ namespace CodeCake
                     // then the user is prompted to enter it.
                     // This is specific to CodeCake (in Code.Cake.dll).
                     var apiKey = Cake.InteractiveEnvironmentVariable("NUGET_API_KEY");
-                   if (string.IsNullOrEmpty(apiKey)) throw new InvalidOperationException("Could not resolve NuGet API key.");
+                   if (string.IsNullOrEmpty(apiKey)) throw new InvalidOperationException("Could not resolve Myget API key.");
 
                    var settings = new NuGetPushSettings
                    {
-                       Source = "https://www.nuget.org/api/v2/package",
+                       Source = "https://www.myget.org/feed/Packages/test-cake",
                        ApiKey = apiKey
                    };
 
